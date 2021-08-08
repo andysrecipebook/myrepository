@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<title>Andy's Cookbook</title>
+<meta name="viewport" content="width-device-width, initial scale=1.0, user-scalable=yes">
+<link rel="stylesheet" href="recipe1.css">
+</head>
+
+<body>
+
+
+
+</div>
+
+<div class="clear">
+</div>
+</div>
+<div id="header">
+<h1><a href="#">Desserts and Puddings</a></h1>
+
+</div>
+
+<div id="introduction">
+<h3>My Recipe Book for You</h3>
+<p>I have decided that I would like to build a website where people can visit and view recipes and try them out for themselves.
+I have also decided that if you want to create a recipe you can do so by sending me your recipe with a list of ingredients and how you
+put together your recipe together. I will publish the recipe
+and accredit your name at the bottom of the recipe. So if you see an empty page and you have a recipe to fill that space, please get in touch.
+</p>
+
+
+
+
+</div>
+
+<div id="leftsidebar" class="sidebar">
+<h3>Recipes:</h3>
+<ul>
+
+	
+</ul>
+</div>
+<div id="rightsidebar" class="sidebar">
+<img src="dessert picture.jpg" width="525" height="525">
+
+</div>
+
+<div class="clear"></div>
+
+
+<footer class="footer">
+<a href="Andys Recipe Book.html">Return to the Front Page</a>
+<div>
+<p>Company name. Andy's Recipe Book &copy; 2021</p>
+
+</div>
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+
+	body {
+
+		background-color: #00B8FE;
+}
+
+img   {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:2px solid green;
+	border-radius: 5px;
+
+}
+
+.footer{
+	font-family: Oleo Script;
+	font-size:30px;
+	font-weight: strong;
+
+}
+
+</style>
+<head>
+
+<meta charset="utf-8">
+<title>Andy's Cookbook</title>
+<meta name="viewport" content="width-device-width, initial scale=1.0, user-scalable=yes">
+<link rel="stylesheet" href="recipe1.css">
+</head>
+
+<body>
+
+
+
+</div>
+
+<div class="clear">
+</div>
+</div>
+
+
+
+<div id="header">
+<h1><a href="#">Chilli Con Carne</a></h1>
+
+</div>
+
+<div id="introduction">
+<h3>My Recipe Book for You</h3>
+<p>I have decided that I would like to build a website where people can visit and view recipes and try them out for themselves.
+I have also decided that if you want to create a recipe you can do so by sending me your recipe with a list of ingredients and how you
+put together your recipe together. I will publish the recipe
+and accredit your name at the bottom of the recipe. So if you see an empty page and you have a recipe to fill that space, please get in touch.
+</p>
+
+</div>
+
+
+<section>
+<img src="chilli1.jpg" height="300" width="300">
+</section>
+
+<div id="leftsidebar" class="sidebar">
+
+
+<h3>Ingredients:</h3>
+<ul>
+<li>500g Pork Minced</li>
+<li>1 large Onion(150g)</li>
+<li>400g Tin of Tomatoes</li>
+<li>200ml Beef Stock</li>
+<li>1tsp Worcestershire Sauce</li>
+<li>1 Clove of garlic</li>
+<li>2 Birds Eye Chillies</li>
+<li>200g Baked Beans</li>
+<li>1 clove of Garlic</li>
+<li>Chopped Corriander</li>
+<li>Rice as an accompaniement</li>
+<li>Creme Fraiche</li>			
+
+</ul>
+
+<h3>Method:</h3>
+
+<p>Chop onions quite small and fry until soft and translucent, then put to one side.</p>
+<p>Add mince to onions and brown, an idea on pans would be to use a wok, as this will provide a large space to put all
+the ingredients together.</p>
+<p>Add tomatoes, beef stock, worcester sauce, chillies, baked beans and garlic. </p>
+<p>Cook all the ingredients on a high heat for 5 minutes, then reduce the heat for a further 20 minutes, taste for your preferences,
+if you want to make the chilli hotter add more spice at this point and heat for a further 10 minutes on a medium to high heat, do not
+stir too much as this may cause your beans to go to mush, taste to ensure you are satisfied with the flavour and heat, reduce at this point and start cooking your rice.</p>
+<p>Cook rice to your preference, there is no golden rule to cooking good rice, cook as you prefer it.</p>
+<p>Serve in a nice warm bowl, dress the dish with some corriander, and maybe some creme fraiche to take some of the
+excessive heat out of the chilli,  and a nice cool drink will go well with this dish, or if you are feeling
+extravagant, why not have it with Champagne!! and Enjoy!</p>
+</div>
+
+
+<div class="clear"></div>
+
+
+<footer class="footer">
+<a href="Andys Recipe Book.html">Return to the Front Page</a>
+<div>
+<p>Company name. Andy's Recipe Book &copy; 2021</p>
+<div>
+<p>Created by : Andy Skilling</p>
+
+</div>
+</footer>
+</body>
+
+</html>
